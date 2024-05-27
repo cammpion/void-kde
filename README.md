@@ -6,9 +6,7 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 
 I just quit all that shit I dont use.
 
-Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
 
 > [!NOTE]
 >I use AMD GPU, so the drivers are set for amd gpu card.
@@ -18,6 +16,13 @@ so, if you need the NetworkManager just add:
    ```sudo ln -s /etc/sv/NetworkManager /var/service/```
    #START
   ``` sudo sv up NetworkManager```
+
+---
+I MAKE BUSIC BTW 
+https://linktr.ee/saintbrunel
+
+---
+
 
 1. Login with your user name and password then RUN:
   
