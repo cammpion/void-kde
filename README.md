@@ -8,19 +8,10 @@ I just quit all that shit I dont use.
 
 Login with your user name and password
 
-
-- **GPU shits:**
-I use AMD GPU, so the drivers are set for amd gpu card.
-
-- **Network shits:**
-I dont use NetworkManager, I use dhcpcd
-so, if you need the NetworkManager just add:
-
-
-
-
-
 > [!NOTE]
+>I use AMD GPU, so the drivers are set for amd gpu card.
+> I dont use NetworkManager, I use dhcpcd
+so, if you need the NetworkManager just add:
 >    #NM
    ```sudo ln -s /etc/sv/NetworkManager /var/service/```
    #START
