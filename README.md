@@ -7,13 +7,13 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 I just quit all that shit I dont use.
 
 Login with your user name and password
-Run  
-1```sudo xbps-install -y git micro ```
- 2```sudo git clone https://github.com/cammpion/void-kde.git ```
+-Run  
+*```sudo xbps-install -y git micro ```
+ *```sudo git clone https://github.com/cammpion/void-kde.git ```
 
-3```cd void-linux-kde ```
-4 ```sudo chmod +x install.sh ```
- 5```sudo ./install.sh ```
+*```cd void-linux-kde ```
+* ```sudo chmod +x install.sh ```
+*```sudo ./install.sh ```
 
 
 
