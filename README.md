@@ -7,7 +7,7 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 I just quit all that shit I dont use.
 
 - **GPU shits:**
-I use AMD GPU, so the drivers set are for amd gpu card.
+I use AMD GPU, so the drivers are set for amd gpu card.
 
 - **Network shits:**
 I dont use NetworkManager, I use dhcpcd
