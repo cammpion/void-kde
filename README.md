@@ -32,7 +32,10 @@ sudo git clone https://github.com/cammpion/void-kde.git
 cd void-linux-kde
 sudo chmod +x install.sh 
 sudo ./install.sh
+```
 
----
-sudo sv up dbus
-sudo sv up sddm
+After completion of the script, run the servises
+
+-sudo sv up dbus
+-sudo sv up sddm
+-sudo sv up dhcpcd
