@@ -17,7 +17,7 @@ I just quit all that shit I dont use.
 so, if you need the NetworkManager just add:
 >    - #NM
    ```sudo ln -s /etc/sv/NetworkManager /var/service/```
-   - #START
+>   - #START
   ``` sudo sv up NetworkManager```
 > If you have any questions, go to the VL documentation
 > - https://docs.voidlinux.org/config/network/index.html
