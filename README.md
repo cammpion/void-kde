@@ -15,9 +15,9 @@ I just quit all that shit I dont use.
 >I use AMD GPU, so the drivers are set for amd gpu card.
 > I dont use NetworkManager, I use dhcpcd
 so, if you need the NetworkManager just add:
->    #NM
+>    - #NM
    ```sudo ln -s /etc/sv/NetworkManager /var/service/```
-   #START
+   - #START
   ``` sudo sv up NetworkManager```
 > If you have any questions, go to the VL documentation
 > - https://docs.voidlinux.org/config/network/index.html
