@@ -6,6 +6,10 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 
 I just quit all that shit I dont use.
 
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
 > [!NOTE]
 >I use AMD GPU, so the drivers are set for amd gpu card.
 > I dont use NetworkManager, I use dhcpcd
@@ -22,4 +26,3 @@ sudo git clone https://github.com/cammpion/void-kde.git
 cd void-linux-kde
 sudo chmod +x install.sh 
 sudo ./install.sh ```
-
