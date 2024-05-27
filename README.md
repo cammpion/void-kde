@@ -9,8 +9,7 @@ I just quit all that shit I dont use.
 Login with your user name and password
 
 1. Run 
-   - First nested list item
-     - Second nested list item
+
     
      -
 ```sudo xbps-install -y git micro
