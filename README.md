@@ -22,8 +22,9 @@ so, if you need the NetworkManager just add:
    #START
   ``` sudo sv up NetworkManager```
 
-  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 1. Run 
   
