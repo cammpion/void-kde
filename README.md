@@ -6,6 +6,16 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 
 I just quit all that shit I dont use.
 
+Login with your user name and password
+Run  ```sudo xbps-install -y git micro ```
+ ```sudo git clone https://github.com/cammpion/void-kde.git ```
+
+ ```cd void-linux-kde ```
+ ```sudo chmod +x install.sh ```
+ ```sudo ./install.sh ```
+
+
+
 - **GPU shits:**
 I use AMD GPU, so the drivers are set for amd gpu card.
 
