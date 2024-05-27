@@ -17,14 +17,14 @@ I dont use NetworkManager, I use dhcpcd
 so, if you need the NetworkManager just add:
 
 
-   #NM
-   ```sudo ln -s /etc/sv/NetworkManager /var/service/```
-   #START
-  ``` sudo sv up NetworkManager```
+
 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+>    #NM
+   ```sudo ln -s /etc/sv/NetworkManager /var/service/```
+   #START
+  ``` sudo sv up NetworkManager```
 
 1. Run 
   
