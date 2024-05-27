@@ -22,6 +22,8 @@ so, if you need the NetworkManager just add:
    #START
   ``` sudo sv up NetworkManager```
 
+  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 
 1. Run 
   
@@ -30,3 +32,4 @@ sudo git clone https://github.com/cammpion/void-kde.git
 cd void-linux-kde
 sudo chmod +x install.sh 
 sudo ./install.sh ```
+
