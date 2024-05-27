@@ -48,7 +48,7 @@ case "$installChoice" in
 
         # Audio and video player
         echo "Installing VLC..."
-        sudo xbps-install -y vlc
+        sudo xbps-install -y vlc mpv
 
         # File manager...atool is installed for the ranger_archives plugin to work properly
         echo "Installing Ranger..."
