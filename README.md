@@ -20,20 +20,3 @@ sudo chmod +x install.sh
 sudo ./install.sh ```
 
 
-
-- **GPU shits:**
-I use AMD GPU, so the drivers are set for amd gpu card.
-
-- **Network shits:**
-I dont use NetworkManager, I use dhcpcd
-so, if you need the NetworkManager just add:
-
-
-   #NM
-   ```sudo ln -s /etc/sv/NetworkManager /var/service/```
-   #START
-  ``` sudo sv up NetworkManager```
-
-  
-- **I MAKE MUSIC BTW**
-https://linktr.ee/saintbrunel
