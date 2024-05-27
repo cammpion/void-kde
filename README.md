@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/cammpion/void-kde/main/void.jpg))
+![Alt text](https://github.com/cammpion/void-kde/blob/main/void.jpg?raw=true)
 
 
 This is a simple post installation helper for installing KDE Plasma with some applications on Void Linux.
