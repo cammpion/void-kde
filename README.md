@@ -1,3 +1,6 @@
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/cammpion/void-kde/main/void.jpg))
+
+
 This is a simple post installation helper for installing KDE Plasma with some applications on Void Linux.
 otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 
