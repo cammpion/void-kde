@@ -18,3 +18,7 @@ so, if you need the NetworkManager just add:
    ```sudo ln -s /etc/sv/NetworkManager /var/service/```
    #START
   ``` sudo sv up NetworkManager```
+
+  
+- **I MAKE MSUIC BTW**
+https://linktr.ee/saintbrunel
