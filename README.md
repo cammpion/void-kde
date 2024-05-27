@@ -34,8 +34,9 @@ sudo chmod +x install.sh
 sudo ./install.sh
 ```
 
+## After
 After completion of the script, run the servises
 
--sudo sv up dbus
--sudo sv up sddm
--sudo sv up dhcpcd
+- sudo sv up dbus
+- sudo sv up sddm
+- sudo sv up dhcpcd
