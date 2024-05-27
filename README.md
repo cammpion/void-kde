@@ -7,7 +7,7 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 I just quit all that shit I dont use.
 
 
-**Network shits:**
+- **Network shits:**
 I dont use NetworkManager, I juse dhcpcd
 so, if you need the NetworkManager just add:
 
