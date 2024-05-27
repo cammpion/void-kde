@@ -6,8 +6,6 @@ otiginal script by https://gitlab.com/asifakonjee/void-linux-kde/
 
 I just quit all that shit I dont use.
 
-Login with your user name and password
-
 > [!NOTE]
 >I use AMD GPU, so the drivers are set for amd gpu card.
 > I dont use NetworkManager, I use dhcpcd
@@ -17,7 +15,7 @@ so, if you need the NetworkManager just add:
    #START
   ``` sudo sv up NetworkManager```
 
-1. Run 
+1. Login with your user name and password then RUN:
   
 ```sudo xbps-install -y git micro
 sudo git clone https://github.com/cammpion/void-kde.git
