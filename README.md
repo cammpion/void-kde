@@ -20,5 +20,5 @@ so, if you need the NetworkManager just add:
   ``` sudo sv up NetworkManager```
 
   
-- **I MAKE MSUIC BTW**
+- **I MAKE MUSIC BTW**
 https://linktr.ee/saintbrunel
