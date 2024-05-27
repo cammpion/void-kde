@@ -34,7 +34,8 @@ case "$installChoice" in
       sudo xbps-install -y void-repo-multilib void-repo-multilib-nonfree void-repo-nonfree
 
       echo "Installing graphics drivers..."
-        sudo xbps-install -y sudo xbps-install amdvlk xf86-video-amdgpu mesa-vaapi mesa-vdpau
+        sudo xbps-install -y sudo xbps-install mesa-dri vulkan-loader mesa-vulkan-radeon amdvlk mesa-vaapi mesa-vdpau
+    
 #      echo "Installing fonts..."
 #        sudo xbps-install -y fontconfig font-iosevka ttf-material-icons nerd-fonts ttf-ubuntu-font-family terminus-font
       echo "Installing audio packages..."
@@ -43,16 +44,12 @@ case "$installChoice" in
         sudo xbps-install -y xorg kde5 kde5-baseapps xdg-user-dirs xdg-utils xtools ark
 
       echo "Installing additional applications..."
-        sudo xbps-install -y neofetch alacritty
+        sudo xbps-install -y alacritty
         # Edit the following list of additional applications or replace them with your own preferences
 
         # Audio and video player
         echo "Installing VLC..."
         sudo xbps-install -y vlc mpv
-
-        # File manager...atool is installed for the ranger_archives plugin to work properly
-        echo "Installing Ranger..."
-        sudo xbps-install -y ranger atool
 
         
     echo "Configuring system..."
