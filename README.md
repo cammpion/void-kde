@@ -13,7 +13,7 @@ Login with your user name and password
      - Second nested list item
     
      -
-*```sudo xbps-install -y git micro
+```sudo xbps-install -y git micro
 sudo git clone https://github.com/cammpion/void-kde.git
 cd void-linux-kde
 sudo chmod +x install.sh 
