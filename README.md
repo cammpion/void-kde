@@ -30,4 +30,4 @@ https://linktr.ee/saintbrunel
 sudo git clone https://github.com/cammpion/void-kde.git
 cd void-linux-kde
 sudo chmod +x install.sh 
-sudo ./install.sh ```
+sudo ./install.sh
