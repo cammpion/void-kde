@@ -22,6 +22,7 @@ so, if you need the NetworkManager just add:
 > If you have any questions, go to the VL documentation
 > - https://docs.voidlinux.org/config/network/index.html
 > - https://docs.voidlinux.org/config/services/index.html
+> - https://docs.voidlinux.org/config/graphical-session/graphics-drivers/index.html
 
 ---
 >I MAKE MUSIC BTW 
