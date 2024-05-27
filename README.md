@@ -19,7 +19,7 @@ so, if you need the NetworkManager just add:
 
 ---
 >I MAKE BUSIC BTW 
-https://linktr.ee/saintbrunel
+- https://linktr.ee/saintbrunel
 
 ---
 
@@ -40,3 +40,5 @@ After completion of the script, run the servises
 - sudo sv up dbus
 - sudo sv up sddm
 - sudo sv up dhcpcd
+
+Then just `'sudo reboot'`  
