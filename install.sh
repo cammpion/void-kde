@@ -36,15 +36,15 @@ case "$installChoice" in
       echo "Installing graphics drivers..."
         sudo xbps-install -y sudo xbps-install mesa-dri vulkan-loader mesa-vulkan-radeon amdvlk mesa-vaapi mesa-vdpau
     
-#      echo "Installing fonts..."
-#        sudo xbps-install -y fontconfig font-iosevka ttf-material-icons nerd-fonts ttf-ubuntu-font-family terminus-font
+      echo "Installing fonts..."
+        sudo xbps-install -y terminus-font
       echo "Installing audio packages..."
         sudo xbps-install -y pulseaudio alsa-utils pipewire
       echo "Installing desktop environment..."
-        sudo xbps-install -y xorg kde5 kde5-baseapps xdg-user-dirs xdg-utils xtools ark
+        sudo xbps-install -y xorg kde5 kde5-baseapps xtools sddm
 
-      echo "Installing additional applications..."
-        sudo xbps-install -y alacritty
+      #echo "Installing additional applications..."
+        #do xbps-install -y alacritty
         # Edit the following list of additional applications or replace them with your own preferences
 
         # Audio and video player
